@@ -1,0 +1,11 @@
+{
+    "name": "Links Kenan Pinto",
+    "short_name": "Kenan PInto",
+    "description": "Links Kenan Pinto",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
